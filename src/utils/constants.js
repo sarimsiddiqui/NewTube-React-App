@@ -14,7 +14,7 @@ import MosqueIcon from '@mui/icons-material/Mosque';
 import SportsSoccerIcon from '@mui/icons-material/SportsSoccer';
 import PlayCircleOutlineIcon from '@mui/icons-material/PlayCircleOutline';
 
-export const logo = 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/YouTube_Red_Diamond_Play_Button.svg/2560px-YouTube_Red_Diamond_Play_Button.svg.png';
+export const logo = 'https://photos.google.com/share/AF1QipPWYAWk1fMMf2AP_UAzMgktoOuF2WlehwVfznubjB6Pt_Fq_NHnOMgSYcumM4kBKw?key=SlNhMm41VVdHNWVSUlNqb2ljZHBNSEt6TVZOS3VB';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },

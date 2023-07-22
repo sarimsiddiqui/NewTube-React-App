@@ -1,9 +1,8 @@
 import { Stack } from '@mui/material';
 import { Link } from  'react-router-dom';
 
-import { logo } from '../utils/constants';
+import  logo   from '../images/newtubelogo.png';
 import  SearchBar  from './SearchBar';
-
 
 
 const NavBar = () => (
@@ -13,7 +12,7 @@ const NavBar = () => (
   
     
     <Link to="/" style = {{ display: 'grid', alignItems: 'center', ml: '20px'}}>
-      <img src= { logo } alt ="mainLogo" height={45} />
+      <img src=  {logo} alt ="mainLogo" height={45} />
     </Link>
 
     <SearchBar/>
